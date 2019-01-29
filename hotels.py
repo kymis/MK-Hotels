@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# Before running the script you need to install beautifulSoup4 & xlsxwriter
+# Do it for example with pip as below
+
 # pip install bs4
 # pip install xlsxwriter
 
