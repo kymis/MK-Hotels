@@ -1,4 +1,5 @@
 # MK-Hotels
+
 Algorithm scraping hotel information from TripAdvisor
 
 Instructions to use:
@@ -9,3 +10,4 @@ Instructions to use:
 
 Script creates a 'Cityname'Hotels.xlsx file to you your current directory with all hotels from given city.
 
+NOTE: On Windows you can just download & run hotels.exe
